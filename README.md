@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, I'm ALI ILHAN THANI BIN JALALUDDIN</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
