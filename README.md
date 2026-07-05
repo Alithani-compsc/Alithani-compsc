@@ -21,7 +21,7 @@ preview
 <h1 align="center">Hi 👋, I'm ALI ILHAN THANI BIN JALALUDDIN</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 📫 How to reach me **alithani.compsc@gmail.com**
+- 📫 How to reach me **alithani.compsc@gmail.com** or https://www.linkedin.com/in/ali-ilhan-thani-7786b02a0/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
