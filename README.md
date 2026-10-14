@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://www.iium.edu.my/" target="_blank">
-    <img src="iium logo.jfif" alt="IIUM" width="40" height="40"/>
+    <img src="iium_logo.jfif" alt="IIUM" width="40" height="40"/>
   </a>
 </p>
 
