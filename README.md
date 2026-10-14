@@ -21,11 +21,11 @@
 
 <p align="left">
   <a href="https://iwisers.com/" target="_blank">
-width="40" height="40"/>
+    <img src="images.jfif" alt="IIUM" width="40" height="40"/>
   </a>
 
   <a href="https://www.iium.edu.my/" target="_blank">
-    <img src="YOUR_IIUM_LOGO_URL" alt="IIUM" width="40" height="40"/>
+    <img src="iium logo.jfif" alt="IIUM" width="40" height="40"/>
   </a>
 </p>
 
