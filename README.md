@@ -17,7 +17,7 @@
 
 ---
 
-##  Study and Workplace
+##  Experiences
 
 <p align="left">
   <a href="https://iwisers.com/" target="_blank">
