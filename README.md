@@ -18,7 +18,7 @@
 ---
 
 ##  Study and Workplace
-```html
+
 <p align="left">
   <a href="https://iwisers.com/" target="_blank">
 width="40" height="40"/>
@@ -28,7 +28,6 @@ width="40" height="40"/>
     <img src="YOUR_IIUM_LOGO_URL" alt="IIUM" width="40" height="40"/>
   </a>
 </p>
-```
 
 
 ## 🛠️ Languages & Tools
