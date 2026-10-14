@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Ilhan Thani Bin Jalaluddin</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | AI • Web Development • Data Analytics
+ Data Analytics intern (Iwisers) | Computer Science Undergraduate (IIUM)
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
-
+- 💼 Data analyst intern at Iwisers
 - 🎓 Computer Science undergraduate at International Islamic University Malaysia (IIUM)
 - 🌱 Currently learning **PHP** and **MySQL** for backend web development
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Web Development, and Data Analytics**
